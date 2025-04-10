@@ -1,4 +1,4 @@
-# ML-Modelling-ICO-campaign-success
+# Supervised ML Modelling: ICO campaign success
 
 ## Introduction (Business understanding)
 Initial Coin offerings (as known as ICOs) are a way to raise capital for projects and start-ups in exchange of cryptocurrencies. Over the decades, it has grown in popularity as an alternative to traditional fund raising from venture capital or angel investment.  The concept has resonance towards crowdfunding, except digital currency is issued in return of capital. 
